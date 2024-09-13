@@ -5,11 +5,12 @@ P13 Team 1 is developing a web-based workload management system for a train serv
 
 ## Contributors
 
-| Name                                     | Username         | Profile Link                             |
-|------------------------------------------|------------------|------------------------------------------|
-| Liu Jiaxin                               | `jiaxin143`      | [Liu Jiaxin's GitHub](https://github.com/jiaxin143) |
-| Muhammad Irfan Nur Ilham Bin Hilmy Irwan| `earlyriser29`   | [Muhammad Irfan's GitHub](https://github.com/earlyriser29) |
-| Stephanie Ling Khai-Mei                  | `stephiling`     | [Stephanie Ling's GitHub](https://github.com/stephiling) |
-| Mohammad Haikal Bin Mohammad Zamri       | `klzazlk`        | [Mohammad Haikal's GitHub](https://github.com/klzazlk) |
-| Sumaiya Shah                             | `maiya1234`      | [Sumaiya Shah's GitHub](https://github.com/maiya1234) |
-| Ong Zhen Yang                            | `GoodbyeKittyy`  | [Ong Zhen Yang's GitHub](https://github.com/GoodbyeKittyy) |
+| Name                                     | Role                | Username         | Profile Link                             |
+|------------------------------------------|---------------------|------------------|------------------------------------------|
+| Liu Jiaxin                               | Backend Developer    | `jiaxin143`      | [Liu Jiaxin's GitHub](https://github.com/jiaxin143) |
+| Muhammad Irfan Nur Ilham Bin Hilmy Irwan | QA Engineer          | `earlyriser29`   | [Muhammad Irfan's GitHub](https://github.com/earlyriser29) |
+| Stephanie Ling Khai-Mei                  | Frontend Developer   | `stephiling`     | [Stephanie Ling's GitHub](https://github.com/stephiling) |
+| Mohammad Haikal Bin Mohammad Zamri       | Team Lead            | `klzazlk`        | [Mohammad Haikal's GitHub](https://github.com/klzazlk) |
+| Sumaiya Shah                             | UI/UX Designer       | `maiya1234`      | [Sumaiya Shah's GitHub](https://github.com/maiya1234) |
+| Ong Zhen Yang                            | Fullstack Developer  | `GoodbyeKittyy`  | [Ong Zhen Yang's GitHub](https://github.com/GoodbyeKittyy) |
+
