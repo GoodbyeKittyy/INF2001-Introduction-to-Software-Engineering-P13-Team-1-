@@ -1,6 +1,6 @@
 # INF2001 Project P13 Team 1
 
-![image](https://github.com/user-attachments/assets/b19854cd-a9b3-4997-ba13-129d994447da)
+![image](https://github.com/user-attachments/assets/54b3f272-06d9-4fa6-a8fc-e720b16401fa)
 
 ## Project Description
 P13 Team 1 is developing a web-based workload management system for a train services company. The system aims to streamline staff assignments and availability tracking, offering a visual interface for both employees and managers. Employees can view their job assignments, indicate preferences, and update availabilities, while managers can allocate jobs efficiently and monitor manpower. The project is milestone-based, following strict deadlines to ensure timely delivery.
